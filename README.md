@@ -51,7 +51,7 @@ cd aigroup-video-mcp
 # 安装依赖
 pip install -r requirements.txt
 
-# 或使用 pip 安装（如果已发布到 PyPI）
+# 或使用 pip 安装
 pip install aigroup-video-mcp
 ```
 
