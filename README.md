@@ -361,7 +361,7 @@ python -m aigroup_video_mcp.main --debug serve
 
 1. 查看 [常见问题](README.md#故障排除) 部分
 2. 提交 [Issue](https://github.com/jackdark425/aigroup-video-mcp/issues)
-3. 联系开发团队：team@aigroup.com
+3. 联系开发团队：jackdark425@gmail.com
 
 ---
 
